@@ -14,6 +14,6 @@
  * Nothing secret belongs in this file — everyone can read it.
  */
 window.ACO_CONFIG = {
-  WAITLIST_ENDPOINT: "",
+  WAITLIST_ENDPOINT: "https://aco-app.onrender.com/api/waitlist",
   CONTACT_EMAIL: ""
 };
